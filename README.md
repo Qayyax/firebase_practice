@@ -5,6 +5,10 @@ This is a solo project from **Srimba Frontend Career Path Course**
 
 It introduces the concept of **Real time database** with **Firebase**
 
+> link to deployed site
+
+https://fredietribute.netlify.app/
+
 ## What I learnt
 
 - I learnt how to use real time database with firebase
